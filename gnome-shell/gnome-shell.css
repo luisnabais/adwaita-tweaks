@@ -4,8 +4,8 @@ stage {
 }
 
 #panel {
-	background-color: rgba(58, 65, 65, 0.50);
-	height: 23px;
+	background-color: rgba(0, 0, 0, 0.50);
+	height: 27px;
 	box-shadow: 0px 0px 4px 0px #4A4F51;
 }
 
